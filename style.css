@@ -1,0 +1,52 @@
+/* modifica allo stile di default per la citazione */
+#citation blockquote{ font-size:2.4rem; border-left: none;}
+
+/* offset verticali */
+.voffset  { margin-top: 2px; }
+.voffset1 { margin-top: 5px; }
+.voffset2 { margin-top: 10px; }
+.voffset3 { margin-top: 15px; }
+.voffset4 { margin-top: 20px; margin-left:30px; margin-right:30px;margin-bottom:20px;}
+.voffset5 { margin-top: 40px; }
+.voffset6 { margin-top: 60px; }
+.voffset7 { margin-top: 80px; }
+.voffset8 { margin-top: 100px; }
+.voffset9 { margin-top: 150px; }
+
+#container {background-color:#d1e0e0;}
+
+#presentazione { font-size:3.4rem; 
+border-left: none;
+margin-bottom:20px;
+margin-top:30px;
+color:blue;}
+
+#offerte { font-size:2.4rem;
+}
+ 
+#promozione{ font-size:2.8rem;
+margin-top: 20px;
+margin-bottom:30px;
+color: green;
+}
+
+#storia{ font-size:2rem;
+margin-top:10px;
+} 
+
+#volo { font-size:2rem;
+margin-top:20px;
+} 
+
+#info{ font-size:1.6rem;
+} 
+
+#hotel { 
+margin-top:50px;
+}
+
+#condizioni { font-size:1.3rem;
+}
+/* stile per il footer e il suo wrapper */
+#footerWrap { background-color:#222222; padding:40px 0;}
+#footerWrap p { color:#fff;}
